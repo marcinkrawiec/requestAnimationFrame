@@ -1,0 +1,23 @@
+{
+  "name": "request-animation-frame",
+  "main": "requestAnimationFrame.js",
+  "version": "0.0.12",
+  "homepage": "https://github.com/marcinkrawiec/requestAnimationFrame",
+  "description": "Polyfill for requestAnimationFrame and cancelAnimationFrame.",
+  "keywords": [
+    "requestAnimationFrame",
+    "request animation frame",
+    "cancel animation frame",
+    "polyfill",
+    "cancelAnimationFrame"
+  ],
+  "authors": [
+    "Paul Irish",
+    "Tino Zijdel",
+    "Andrew Mao",
+    "Klemen Slavič",
+    "Darius Bacon",
+    "Marcin Krawiec"
+  ],
+  "license": "MIT"
+}
